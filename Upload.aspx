@@ -16,6 +16,6 @@
  
        }
  
-             HttpContext.Current.Response.Write("Upload successfully!");
+//             HttpContext.Current.Response.Write("Upload successfully!");
  
 %>
